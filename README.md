@@ -41,8 +41,11 @@ Analyze call centre performance to understand service efficiency, agent performa
 - Satisfaction by Topic  
 - Agent Performance Comparison  
 
+### 📊 Dashboard Preview
+![Call Centre Dashboard](screenshots/task1-call-centre.png)
+
 📄 Detailed Insights:  
-`insights/business-insights-task 1.md`
+[View Task 1 Insights](insights/business-insights-task 1.md)
 
 ---
 
@@ -57,8 +60,12 @@ Analyze customer demographics, service usage, and revenue distribution to unders
 - Service-Level Revenue (Internet, Streaming, Phone, Tech Support)  
 - Paperless Billing & Contract Insights  
 
+### 📊 Dashboard Preview
+![Customer Churn Dashboard](screenshots/task2-customer-churn-2.1.png)
+![Customer Churn Dashboard](screenshots/task2-customer-churn-2.2.png)
+
 📄 Detailed Insights:  
-`insights/business-insights-task 2.md`
+[View Task 2 Insights](insights/business-insights-task 2.md)
 
 ---
 
@@ -74,8 +81,13 @@ Evaluate workforce diversity across gender, job levels, promotions, turnover, an
 - Performance Ratings by Gender  
 - Age Group Distribution  
 
-📄 Detailed Insights:  
-`insights/business-insights-task 3.md`
+### 📊 Dashboard Preview
+![Diversity & Inclusion Dashboard](screenshots/task3-diversity-&-inclusion-dashboard-3.1.png)
+![Diversity & Inclusion Dashboard](screenshots/task3-diversity-&-inclusion-dashboard-3.2.png)
+![Diversity & Inclusion Dashboard](screenshots/task3-diversity-&-inclusion-dashboard-3.3.png)
+
+📄 **Detailed Insights:**  
+[View Task 3 Insights](insights/business-insights-task 3.md)
 
 ---
 
