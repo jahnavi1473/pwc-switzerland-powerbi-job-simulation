@@ -45,7 +45,7 @@ Analyze call centre performance to understand service efficiency, agent performa
 ![Call Centre Dashboard](screenshots/task1-call-centre.png)
 
 📄 Detailed Insights:  
-[View Task 1 Insights](insights/business-insights-task 1.md)
+[View Task 1 Insights](insights/business-insights-task-1.md)
 
 ---
 
@@ -61,11 +61,11 @@ Analyze customer demographics, service usage, and revenue distribution to unders
 - Paperless Billing & Contract Insights  
 
 ### 📊 Dashboard Preview
-![Customer Churn Dashboard](screenshots/task2-customer-churn-2.1.png)
-![Customer Churn Dashboard](screenshots/task2-customer-churn-2.2.png)
+![Customer Churn Dashboard](screenshots/task2-customer-retention-2.1.png)
+![Customer Churn Dashboard](screenshots/task2-customer-retention-2.2.png)
 
 📄 Detailed Insights:  
-[View Task 2 Insights](insights/business-insights-task 2.md)
+[View Task 2 Insights](insights/business-insights-task-2.md)
 
 ---
 
@@ -87,7 +87,7 @@ Evaluate workforce diversity across gender, job levels, promotions, turnover, an
 ![Diversity & Inclusion Dashboard](screenshots/task3-diversity-&-inclusion-dashboard-3.3.png)
 
 📄 **Detailed Insights:**  
-[View Task 3 Insights](insights/business-insights-task 3.md)
+[View Task 3 Insights](insights/business-insights-task-3.md)
 
 ---
 
