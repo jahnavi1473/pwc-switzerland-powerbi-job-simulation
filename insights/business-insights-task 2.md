@@ -88,6 +88,7 @@ Majority of revenue is associated with customers using paperless billing.
 ---
 
 🔹 Service-Level Charges
+
 📡 Internet Services
 
 Fiber Optic: 9.9M
