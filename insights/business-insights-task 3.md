@@ -1,5 +1,6 @@
-###👥 Task 3 – Diversity & Inclusion Analysis
-###📊 Key Insights from Dashboard
+### 👥 Task 3 – Diversity & Inclusion Analysis
+
+### 📊 Key Insights from Dashboard
 
 ---
 
