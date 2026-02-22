@@ -19,9 +19,13 @@ All dashboards were built using Power BI with data modeling, DAX measures, and i
 
 ## 🗂 Repository Structure
 dataset/ → Raw datasets used for analysis
+
 powerbi/ → Power BI (.pbix) dashboard files
+
 screenshots/ → Dashboard preview images
+
 insights/ → Task-wise business insights documentation
+
 README.md → Project overview
 
 ---
